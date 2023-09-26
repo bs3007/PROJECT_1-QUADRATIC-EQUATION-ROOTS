@@ -35,6 +35,6 @@ This program is provided under the MIT License. Feel free to modify and distribu
 
 SRIHARI BALIJI
 
-If you have any questions or encounter any issues, please contact [your@email.com].
+If you have any questions or encounter any issues, please contact [bs3007@srmist.edu.in].
 
 
